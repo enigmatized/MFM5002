@@ -1,0 +1,8 @@
+[package]
+name = "your_project_name"  # Replace with your project name
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rand = "0.8"
+plotters = "0.3"
